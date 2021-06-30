@@ -1,6 +1,6 @@
 {
   "name": "ez-timer",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Simple timer with better accuracy than setInterval() method",
   "types": "lib/index.d.ts",
   "main": "lib/index",
