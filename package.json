@@ -1,0 +1,27 @@
+{
+  "name": "ez-timer",
+  "version": "1.1.0",
+  "description": "Simple timer with better accuracy than setInterval() method",
+  "types": "lib/index.d.ts",
+  "main": "lib/index",
+  "author": "krsntn",
+  "homepage": "https://github.com/krsntn/ez-timer#readme",
+  "keywords": [
+    "timer",
+    "timeout"
+  ],
+  "bugs": {
+    "url": "https://github.com/krsntn/ez-timer/issues"
+  },
+  "scripts": {
+    "build": "rm ./lib/* && tsc"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krsntn/ez-timer.git"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.4"
+  }
+}
